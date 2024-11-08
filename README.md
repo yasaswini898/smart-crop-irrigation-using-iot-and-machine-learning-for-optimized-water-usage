@@ -1,2 +1,2 @@
 # smart-crop-irrigation-using-iot-and-machine-learning-for-optimized-water-usage
-This project is based on to provide efficient water to the crops and we are using the iot sensors such as soil moisture sensor,temperature sensor and humidity sensor and we also machine learning algorithms for predicting the irrigation
+This project is based on to provide efficient water to the crops and we are using the iot sensors such as soil moisture sensor,temperature sensor and humidity sensor to collect the real time data and we are also use machine learning algorithms such as KNN for analysing the historical data  because it has the more accuracy for predicting the irrigation.
